@@ -1,4 +1,16 @@
 
+/*
+  pir_based_light
+  This example shows how to create a automated light system 
+  
+  
+  created June 2018
+  by M.Himamsu
+  modified June 2018
+  by M.Himamsu 
+*/
+
+
 //the time we give the sensor to calibrate (10-60 secs according to the datasheet)
 int calibrationTime = 30;        
 
